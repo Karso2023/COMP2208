@@ -5,7 +5,7 @@ This repository contains past examination papers for the course **COMP2208 - Int
 ## Contents
 
 - **2013/14**
-  - [Paper 1]([https://example.com/2013-14/paper1.pdf](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-201314-01-COMP2208W1.pdf))
+  - [Paper 1]((https://github.com/Karso2023/COMP2208/blob/main/COMP2208-201314-01-COMP2208W1.pdf))
 
 - **2014/15**
   - [Paper 1]([https://example.com/2014-15/paper1.pdf](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-201415-01-COMP2008W1.pdf))

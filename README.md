@@ -25,6 +25,15 @@ This repository contains past examination papers for the course **COMP2208 - Int
 - **2019/20**
   - [Paper 1](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-201920-01-COMP2208W1.pdf)
 
+- **2021/22**
+  - [Paper 1](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-202122-01-COMP2208%20(1).pdf)
+
+- **2022/23**
+  - [Paper 1](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-202223-01-COMP2208%20(1).pdf)
+
+- **2023/24**
+  - [Paper 1](https://github.com/Karso2023/COMP2208/blob/main/COMP2208-202324-01-COMP2208%20(2).pdf)
+
 ## Usage
 
 These past papers can be used for revision and practice. Each paper includes questions that reflect the content and structure of the exams.
